@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "question": "Micro Average vs Macro average Performance in a Multiclass classification setting"
+  },
+  {
+    "id": "2",
+    "question": "What are deconvolutional layers?"
+  },
+  {
+    "id": "3",
+    "question": "How to set class weights for imbalanced classes in Keras?"
+  },
+  {
+    "id": "4",
+    "question": "What&#39;s the difference between fit and fit_transform in scikit-learn models?"
+  },
+  {
+    "id": "5",
+    "question": "Train/Test/Validation Set Splitting in Sklearn"
+  },
+  {
+    "id": "6",
+    "question": "Publicly Available Datasets"
+  },
+  {
+    "id": "7",
+    "question": "K-Means clustering for mixed numeric and categorical data"
+  },
+  {
+    "id": "8",
+    "question": "What is the &quot;dying ReLU&quot; problem in neural networks?"
+  },
+  {
+    "id": "9",
+    "question": "How to draw Deep learning network architecture diagrams?"
+  },
+  {
+    "id": "10",
+    "question": "Difference between isna() and isnull() in pandas"
+  },
+  {
+    "id": "11",
+    "question": "How do you visualize neural network architectures?"
+  },
+  {
+    "id": "12",
+    "question": "When to use GRU over LSTM?"
+  },
+  {
+    "id": "13",
+    "question": "When to use One Hot Encoding vs LabelEncoder vs DictVectorizor?"
+  },
+  {
+    "id": "14",
+    "question": "The cross-entropy error function in neural networks"
+  },
+  {
+    "id": "15",
+    "question": "Best python library for neural networks"
+  },
+  {
+    "id": "16",
+    "question": "Why do people prefer Pandas to SQL?"
+  },
+  {
+    "id": "17",
+    "question": "How to get correlation between two categorical variable and a categorical variable and continuous variable?"
+  },
+  {
+    "id": "18",
+    "question": "Python vs R for machine learning"
+  },
+  {
+    "id": "19",
+    "question": "Training an RNN with examples of different lengths in Keras"
+  },
+  {
+    "id": "20",
+    "question": "SVM using scikit learn runs endlessly and never completes execution"
+  },
+  {
+    "id": "21",
+    "question": "Choosing a learning rate"
+  },
+  {
+    "id": "22",
+    "question": "Why do cost functions use the square error?"
+  },
+  {
+    "id": "23",
+    "question": "When should I use Gini Impurity as opposed to Information Gain (Entropy)?"
+  },
+  {
+    "id": "24",
+    "question": "Backprop Through Max-Pooling Layers?"
+  },
+  {
+    "id": "25",
+    "question": "What is the positional encoding in the transformer model?"
+  },
+  {
+    "id": "26",
+    "question": "Advantages of AUC vs standard accuracy"
+  },
+  {
+    "id": "27",
+    "question": "ValueError: Input contains NaN, infinity or a value too large for dtype(&#39;float32&#39;)"
+  },
+  {
+    "id": "28",
+    "question": "How big is big data?"
+  },
+  {
+    "id": "29",
+    "question": "Cosine similarity versus dot product as distance metrics"
+  },
+  {
+    "id": "30",
+    "question": "When to use (He or Glorot) normal initialization over uniform init? And what are its effects with Batch Normalization?"
+  }
+]
